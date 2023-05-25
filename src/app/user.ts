@@ -23,4 +23,5 @@ export class User {
     get photo() {
         return this._photo;
     }
+
 }
